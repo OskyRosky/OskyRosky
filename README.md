@@ -1,3 +1,41 @@
+## 🚀 About Me
+
+I'm a passionate Data Scientist, Data Engineer, and Statistical Programmer from Costa Rica. I love exploring new technologies and leveraging them to solve complex problems in the data world.
+
+## 🔥 Highlighted Projects
+
+- **Twitter Sentiment Analyzer**: A tool that uses NLP and machine learning to analyze and visualize the sentiment of tweets in real-time.
+  - *Technologies*: Python, TensorFlow, Flask
+  - [View Repository](#)
+
+- **Movie Recommendation System**: A system that recommends movies based on your previous likes and preferences.
+  - *Technologies*: Python, Pandas, Scikit-Learn
+  - [View Repository](#)
+
+## 📝 Blogs and Publications
+I've shared my knowledge and experiences through various blogs and platforms:
+- [Getting Started with Machine Learning](#)
+- [10 Tips to Optimize Your Data Pipelines](#)
+
+## 🤝 How to Contribute
+I'm open to collaborations! If you're interested in contributing to any of my projects, please:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📬 Contact
+If you have any questions or would like to discuss a collaboration, feel free to reach out to me:
+- LinkedIn: [Oscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora/)
+- Instagram: [@ocm_cr](https://instagram.com/ocm_cr)
+
+<details>
+ <summary><h3> Oscar's Coding Journey 👨‍💻</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+
+   
+
 <h1 align="center">Hi 👋, I'm Oscar Centeno Mora</h1>
 <h3 align="center">A passionate Data Scientist - Data Engineer - Statistical Programmer from Costa Rica</h3>
 
