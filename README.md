@@ -28,7 +28,9 @@ I'm open to collaborations! If you're interested in contributing to any of my pr
 ## 📬 Contact
 If you have any questions or would like to discuss a collaboration, feel free to reach out to me:
 - LinkedIn: [Oscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora/)
+- E-mail: [Oscar Centeno Mora](oscar.centeno.mora@gmail.com)
 - Instagram: [@ocm_cr](https://instagram.com/ocm_cr)
+- Tik Tok: [@ocentmora]([https://instagram.com/ocm_cr](https://www.tiktok.com/@ocentmora))
 
 <details>
  <summary><h3> Oscar's Coding Journey 👨‍💻</h3></summary>
