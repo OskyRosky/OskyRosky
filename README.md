@@ -30,7 +30,7 @@ If you have any questions or would like to discuss a collaboration, feel free to
 - LinkedIn: [Oscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora/)
 - E-mail: [Oscar Centeno Mora](oscar.centeno.mora@gmail.com)
 - Instagram: [@ocm_cr](https://instagram.com/ocm_cr)
-- Tik Tok: [@ocentmora](https://www.tiktok.com/@ocentmora))
+- Tik Tok: [@ocentmora](https://www.tiktok.com/@ocentmora)
 
 <details>
  <summary><h3> Oscar's Coding Journey 👨‍💻</h3></summary>
