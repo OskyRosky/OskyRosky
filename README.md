@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a passionate Data Scientist, Data Engineer, and Statistical Programmer from Costa Rica. I love exploring new technologies and leveraging them to solve complex problems in the data world.
+I'm a Data Scientist, Data Engineer, and Statistical Programmer from Costa Rica. I love exploring new technologies and leveraging them to solve complex problems in the data world.
 
 ## 🔥 Highlighted Projects
 
