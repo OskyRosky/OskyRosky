@@ -25,35 +25,15 @@ LLM, NLP, Generative, Deep Learning, Fine Tuning, Image recognition, Chatbot, ..
 Azure: Databricks, AI Studio, Blobs,...
 AWS: SageMaker, Athena, Glue,...
 GCP: Big Querry, Looker, Auto ML Vision
+Snowflake: ...
 
 ## 👨🏽‍💻 Programming languages 
 
-1. Python
-2. R
-3. SQL
-4. JavaScript
-5. SAS
-6. PySpark
-7. Scala
-8. Git
-9. DAX
-10. Bash
-11. Markdown
+Python, R, SQL, JavaScript, SAS, PySpark, Scala, Git, DAX, Bash, Markdown, ...
 
 ## 🧰 Tools
 
-1. VSC
-2. Colab
-3. R Studio
-4. Power BI
-5. Tableau
-6. Snowflake
-7. Postgres
-8. MySQL
-9. Airflow
-10. Elasticsearh
-11.  Matlab
-12.  More...
+VSC, Colab, R Studio, Power BI, Tableau, Snowflake, Postgres, MySQL, Airflow, Elasticsearh, Matlab, ...
 
 ## 🔥 Highlighted Projects
 
@@ -84,10 +64,8 @@ If you have any questions or would like to discuss a collaboration, feel free to
 <details>
  <summary><h3> 👨‍💻 More about Oscar 👨‍💻</h3></summary>
   
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, Python, R, SQL, theory, etc. Nowadays, I'm a Data Scientist, Data Engineer and Statistical Programmer. You can see in detail more about scrolling down.
    
-
 <h1 align="center">Hi 👋, I'm Oscar Centeno Mora</h1>
 <h3 align="center">A passionate Data Scientist - Data Engineer - Statistical Programmer from Costa Rica</h3>
 
