@@ -10,44 +10,23 @@ strategic guidance to businesses across the finance, healthcare, energy, marketi
 
 ## 🕵️‍♂️ Data Science
 
-1. Machine Learning (ML)
-2. Deep Learning (DL)
-3. Time series
-4. Visualization
-5. A/B Testing
-6. Data Simulation
-7. More...
+Machine Learning (ML), Deep Learning (DL), Time series, Visualization, A/B Testing, Other Statistical tests, Data Simulation, ...
 
 ## 👷‍♂️ Data Engineer 
 
-1. ETL & ELT
-2. Data Modeling
-3. Infraestructure
-4. Data Governance
-5. Batch & Stream
-6. Workflow Management
-7. Automation
-8. More...
+ETL & ELT, Data Modeling, Infraestructure, Data Governance, Batch & Stream, Workflow Management, Automation, ...
 
 ## 👨🏽‍💻 AI 
 
-1. LLM
-2. NLP
-3. Generative
-4. Deep Learning
-5. Fine Tuning
-6. Image recognition
-7. Chatbot
+LLM, NLP, Generative, Deep Learning, Fine Tuning, Image recognition, Chatbot, ...
 
-## Cloud 
+## 💭 Cloud 
 
-1. Azure:
-2. AWS:
-3. GCP:
-4. Databricks:
-5. VM:
+Azure: Databricks, AI Studio, Blobs,...
+AWS: SageMaker, Athena, Glue,...
+GCP: Big Querry, Looker, Auto ML Vision
 
-## Programming languages 
+## 👨🏽‍💻 Programming languages 
 
 1. Python
 2. R
@@ -61,7 +40,7 @@ strategic guidance to businesses across the finance, healthcare, energy, marketi
 10. Bash
 11. Markdown
 
-## Tools
+## 🧰 Tools
 
 1. VSC
 2. Colab
@@ -83,11 +62,11 @@ strategic guidance to businesses across the finance, healthcare, energy, marketi
 
 
 ## 📝 Blogs and Publications
-I've shared my knowledge and experiences through various blogs and platforms:
-- [Getting Started with Machine Learning](#)
-- [10 Tips to Optimize Your Data Pipelines](#)
+
+Coming soon.
 
 ## 🤝 How to Contribute
+
 I'm open to collaborations! If you're interested in contributing to any of my projects, please:
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
