@@ -61,7 +61,7 @@ I'm open to collaborations! If you're interested in contributing to any of my pr
 If you have any questions or would like to discuss a collaboration, feel free to reach out to me:
 - LinkedIn: [Oscar Centeno Mora](https://www.linkedin.com/in/oscar-centeno-mora/)
 - E-mail: oscar.centeno.mora@gmail.com
-- Website: (oskyrosky.github.io) 
+- Website: [Oscar Centeno Mora](oskyrosky.github.io) 
 - Instagram: [@ocm_cr](https://instagram.com/ocm_cr)
 - Tik Tok: [@ocentmora](https://www.tiktok.com/@ocentmora)
 
