@@ -38,8 +38,8 @@ VSC, Colab, R Studio, Power BI, Tableau, Snowflake, Postgres, MySQL, Airflow, El
 ## 🔥 Highlighted Projects
 
 - **Projetc 1**: Everything about Machine Learning. [Machine Learning](https://github.com/OskyRosky/MachineLearning)
-- **Projetc 2**:
-- **Projetc 3**:
+- **Projetc 2**: Data Engineering terms. [Data Engineering](https://github.com/OskyRosky/DataTerms)
+- **Projetc 3**: NLP. [NLP](https://github.com/OskyRosky/)
 - **Projetc 4**:
 - **Projetc 5**:
 
